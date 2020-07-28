@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php header("Location: loginpage.php"); ?>
+    <?php header("Location: ./pages/loginpage.php"); ?>
 </body>
 </html>
